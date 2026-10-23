@@ -34,3 +34,8 @@ xcuserdata/
 
 # Thư mục cấu hình của JetBrains (CLion, PyCharm...)
 .idea/
+
+src/Kruskal
+src/FindAllTree
+src/grap_representation
+out/

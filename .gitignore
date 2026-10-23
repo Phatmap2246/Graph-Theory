@@ -1,0 +1,36 @@
+# --- Dành cho C++ ---
+# File biên dịch
+*.o
+*.obj
+*.exe
+*.out
+a.out
+*.dSYM/
+
+# File build của CMake / Makefile
+build/
+cmake-build-debug/
+CMakeFiles/
+
+# --- Dành cho Python ---
+# Môi trường ảo
+venv/
+env/
+.venv/
+
+# File cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# --- Dành cho IDE / OS ---
+# VS Code
+.vscode/
+
+# Xcode (vì bạn dùng Mac)
+.DS_Store
+xcuserdata/
+*.xcuserstate
+
+# Thư mục cấu hình của JetBrains (CLion, PyCharm...)
+.idea/
